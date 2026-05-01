@@ -1,0 +1,8 @@
+Estos son los requerimientos de mi proyecto.
+
+Autenticacion
+Login
+Carga de usuarios
+Registro de usuarios
+Mantenimiento
+Reportes
